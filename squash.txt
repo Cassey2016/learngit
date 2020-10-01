@@ -1,1 +1,3 @@
 10/01/2020: I am testing squash command.
+This is squash line 1 test.
+This is squash line 2 test,
